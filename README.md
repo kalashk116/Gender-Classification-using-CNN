@@ -12,3 +12,7 @@ Upon evaluation, the model achieves an impressive overall accuracy of 95%. Speci
 The model demonstrates an accuracy of 95%, with precision values of 0.96 for class 0 (Male) and 0.93 for class 1 (Female). The recall values stand at 0.93 for males and 0.96 for females, leading to F1-scores of 0.94 and 0.95, respectively. These metrics indicate that the model performs efficiently in distinguishing between male and female images.
 
 ![comfusion matrix_metrics](https://github.com/user-attachments/assets/d1ba6fbd-c681-41ae-9e03-51141e83e029)
+
+
+The google drive consists of all contents required. Link to Gdrive :-
+https://drive.google.com/drive/folders/1_VMMZ2HkSQkRdlWJlS7hj7k1njaN6txC?usp=sharing
